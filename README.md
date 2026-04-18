@@ -1,6 +1,5 @@
-# Graduate Deep Learning: The Efficient Vision Challenge
-## CNN Architecture and Object Detection — Assignment Report
-### Team 4 | Medical Imaging (BCCD Dataset)
+# Assignment Report
+## Team 4
 
 ---
 
